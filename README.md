@@ -22,9 +22,9 @@
 ## 데이터셋
 1️⃣ 관광 음식메뉴판 데이터셋(AI Hub): https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=71553
 
-2️⃣ OpenFoodFacts(공개 CSV/JSON 데이터셋): https://world.openfoodfacts.org/data
+2️⃣ Food Nutrition Dataset(Kaggle): https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset
 
-3️⃣ Food Nutrition Dataset(Kaggle): https://www.kaggle.com/datasets/utsavdey1410/food-nutrition-dataset
+3️⃣ OpenFoodFacts(공개 CSV/JSON 데이터셋): https://world.openfoodfacts.org/data
 
 ## 기술 스택 요약
 
