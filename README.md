@@ -16,6 +16,6 @@
 | Name        | Role                 | Affiliation            | GitHub ID     |
 |-------------|----------------------|-------------------------|----------------|
 | **이준연**    | Team Leader / AI     | IoT 인공지능 융합전공  | junylee00@naver.com   |
-| **정지윤**    | Design & AI Sub      | 빅데이터융합학과 | jyunniyss@gmail.com   |
+| **정지윤**    | Design & AI       | 빅데이터융합학과 | jyunniyss@gmail.com   |
 | **신상헌**    | Front End    | 산업공학과 | sangheonsin8@gmail.com   |
 | **김지인**    | Back End    | 컴퓨터정보통신공학과 | jlib245@naver.com   |
