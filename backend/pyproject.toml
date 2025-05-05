@@ -1,0 +1,16 @@
+[project]
+name = "wtm-prepare"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "alembic>=1.15.2",
+    "dotenv>=0.9.9",
+    "fastapi>=0.115.12",
+    "pydantic>=2.11.4",
+    "python-multipart>=0.0.20",
+    "sentence-transformers>=4.1.0",
+    "sqlalchemy>=2.0.40",
+    "uvicorn>=0.34.2",
+]
